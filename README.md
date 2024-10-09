@@ -1,12 +1,14 @@
 Hi everyone, this is just a small repo on a small website in a small part of the Internet. Really puts things into perspective doesn't it?
 
 Name: Prabhav Sai Paripati
-Occupation: Student of Texas Academy of Mathematics and Science @ the University of North Texas
+
+Occupation: Student of the Texas Academy of Mathematics and Science @ the University of North Texas
+
 Socials:
  - https://www.linkedin.com/in/psparipati/
  - https://www.instagram.com/p16know/
  - https://www.facebook.com/profile.php?id=61560263856639
-(I'm currently setting up X, you'll see it here once it's live.)
+ - https://x.com/p16know
 
 Other things about me:
 - 🌱 I’m currently learning Python, CSS, HTML, Java, C, C++ and other languages.
