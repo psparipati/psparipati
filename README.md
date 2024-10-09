@@ -1,11 +1,11 @@
 Hi everyone, this is just a small repo on a small website in a small part of the Internet. Really puts things into perspective doesn't it?
 
 Name: Prabhav Sai Paripati
-Occupation: Student
+Occupation: Student of Texas Academy of Mathematics and Science @ the University of North Texas
 Socials:
-https://www.linkedin.com/in/psparipati/
-https://www.instagram.com/p16know/
-https://www.facebook.com/profile.php?id=61560263856639
+ - https://www.linkedin.com/in/psparipati/
+ - https://www.instagram.com/p16know/
+ - https://www.facebook.com/profile.php?id=61560263856639
 (I'm currently setting up X, you'll see it here once it's live.)
 
 Other things about me:
