@@ -4,12 +4,6 @@ Name: Prabhav Sai Paripati
 
 Occupation: Student of the Texas Academy of Mathematics and Science @ the University of North Texas
 
-Socials:
- - https://www.linkedin.com/in/psparipati/
- - https://www.instagram.com/p16know/
- - https://www.facebook.com/profile.php?id=61560263856639
- - https://x.com/p16know
-
 Other things about me:
 - 🌱 I’m currently learning Python, CSS, HTML, Java, C, C++ and other languages.
 - 👯 I’m looking to collaborate on Python Projects.
