@@ -8,6 +8,6 @@ Other things about me:
 - 🌱 I’m currently learning Python, CSS, HTML, Java, C, C++, PERL and other languages.
 - 👯 I’m looking to collaborate on Python Projects.
 - 🤔 I’m looking for help with learning the languages I mentioned above.
-- 💬 Ask me about Python and a little CSS.
+- 💬 Ask me about Python and a little Java.
 - 📫 How to reach me: Email (psparipati@gmail.com) is best contact
 - 😄 Pronouns: he/him
