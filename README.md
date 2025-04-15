@@ -1,6 +1,6 @@
 Hi everyone, this is just a small repo on a small website in a small part of the Internet. Really puts things into perspective doesn't it?
 
-Name: Prabhav Paripati
+Name: Prabhav S. Paripati
 
 Occupation: Student of the Texas Academy of Mathematics and Science @ the University of North Texas
 
