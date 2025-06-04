@@ -5,7 +5,7 @@ Name: Prabhav S. Paripati
 Occupation: Student of the Texas Academy of Mathematics and Science @ the University of North Texas
 
 Other things about me:
-- 🌱 I’m currently learning Python, CSS, HTML, Java, C, C++, PERL and other languages.
+- 🌱 I’m currently learning Python, CSS, HTML, Java, C, C++, R and other languages.
 - 👯 I’m looking to collaborate on Python Projects.
 - 🤔 I’m looking for help with learning the languages I mentioned above.
 - 💬 Ask me about Python and a little Java.
