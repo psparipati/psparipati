@@ -1,4 +1,4 @@
-Hi everyone, this is just a small repo on a small website in a small part of the Internet. Really puts things into perspective doesn't it?
+Hi everyone, this is just my small repo on a not-so-small website in a not-so-small part of the Internet. Really puts things into perspective, doesn't it?
 
 Name: Prabhav S. Paripati
 
