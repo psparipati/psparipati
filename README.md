@@ -3,6 +3,7 @@ Hi everyone, this is just my small repo on a not-so-small website in a not-so-sm
 Name: Prabhav S. Paripati
 
 Current Occupation: Class of 20XX Artificial Intelligence Major @ Purdue University
+
 Previous Occupation: Student of the Texas Academy of Mathematics and Science @ the University of North Texas (I graduated high school lol.)
 
 Other things about me:
